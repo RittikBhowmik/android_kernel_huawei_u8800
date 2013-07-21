@@ -35,7 +35,6 @@
 
 #include "gadget_chips.h"
 
-#undef CONFIG_HUAWEI_KERNEL
 /*< DTS2012011801998 chenxi 20120203 begin */
 #ifdef CONFIG_HUAWEI_KERNEL
 #include <asm-arm/huawei/usb_switch_huawei.h>
